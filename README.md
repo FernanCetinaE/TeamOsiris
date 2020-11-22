@@ -18,3 +18,4 @@ Our project is intended to help students of 1st semester of UADY studying Softwa
 # Progress tracking
 Bitácoras:
 * [Nov 12th, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/main/Documentaci%C3%B3n/Bitacoras/12th%20nov%202020.md)
+* [13th nov, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/main/Documentaci%C3%B3n/Bitacoras/13th%20nov%202020.md)
