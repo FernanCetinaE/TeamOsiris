@@ -9,8 +9,8 @@ We are happy to share our progress with you! We want optimize your time with sma
 * Ricardo Reyes Balam Cupul-TIZ                [@rhzx0r](https://github.com/rhzx0r)
 
 # Description
-Our project is intended to help students learn contents Advanced Geometry and Engineering Fundamentals.
-For this porpouse we will develop a website with the most relevant information of these subjects, tips to study and expand class materials
+Our project is intended to help students learn contents of Advanced Geometry and Software Engineering Fundamentals.
+For this purpose we will develop a website with the most relevant information of these subjects, tips to study and expand class materials
 
 # Users
 Our project is intended to help students of 1st semester of UADY studying Software Engineering.
