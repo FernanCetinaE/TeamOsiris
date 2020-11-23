@@ -19,3 +19,4 @@ Our project is intended to help students of 1st semester of UADY studying Softwa
 Bitácoras:
 * [Nov 12th, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/main/Documentaci%C3%B3n/Bitacoras/12th%20nov%202020.md)
 * [Nov 13th, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/main/Documentaci%C3%B3n/Bitacoras/13th%20nov%202020.md)
+* [Nov 22nd, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/main/Documentaci%C3%B3n/Bitacoras/22th%20nov%202020.md)
