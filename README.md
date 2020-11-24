@@ -9,8 +9,7 @@ We are happy to share our progress with you! We want optimize your time with sma
 * Ricardo Reyes Balam Cupul-TIZ                [@rhzx0r](https://github.com/rhzx0r)
 
 # Description
-Our project is intended to help students learn contents of Advanced Geometry and Software Engineering Fundamentals.
-For this purpose we will develop a website with the most relevant information of these subjects, tips to study and expand class materials
+Our project intends to help students manage their time and keep track of their future activities. For this purpose, we will develop a tool that allows its users to add and remove objectives. It will also have several options to keep track of them, like constant notifications and progress updates.
 
 # Users
 Our project is intended to help students of 1st semester of UADY studying Software Engineering.
@@ -20,3 +19,4 @@ Bitácoras:
 * [Nov 12th, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/main/Documentaci%C3%B3n/Bitacoras/12th%20nov%202020.md)
 * [Nov 13th, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/main/Documentaci%C3%B3n/Bitacoras/13th%20nov%202020.md)
 * [Nov 22nd, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/main/Documentaci%C3%B3n/Bitacoras/22th%20nov%202020.md)
+* [Nov 24th, 2020](Documentaci%C3%B3n/Bitacoras/24th%20nov%202020.md)
