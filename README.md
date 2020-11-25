@@ -20,4 +20,4 @@ Bitácoras:
 * [Nov 13th, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/main/Documentaci%C3%B3n/Bitacoras/13th%20nov%202020.md)
 * [Nov 22nd, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/main/Documentaci%C3%B3n/Bitacoras/22th%20nov%202020.md)
 * [Nov 24th, 2020](Documentaci%C3%B3n/Bitacoras/24th%20nov%202020.md)
-* [Nov 24th-25th, 2020](Documentación/Bitacoras/24th-25th nov 2020.md)
+* [Nov 24th-25th, 2020](https://github.com/Teodoro-lab/TeamOsiris/blob/main/Documentaci%C3%B3n/Bitacoras/24th-25th%20nov%202020.md)
