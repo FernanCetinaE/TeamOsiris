@@ -22,3 +22,4 @@ Bitácoras:
 * [Nov 24th, 2020](Documentaci%C3%B3n/Bitacoras/24th%20nov%202020.md)
 * [Nov 24th-25th, 2020](Documentaci%C3%B3n/Bitacoras/24th-25th%20nov%202020.md)
 * [Nov 25th, 2020](Documentaci%C3%B3n/Bitacoras/25th%20nov%202020.md)
+* [Nov 26th, 2020](Documentaci%C3%B3n/Bitacoras/26th%20nov%202020.md)
