@@ -27,19 +27,19 @@ Binnacles:
 * [Nov 26th, 2020](Documentaci%C3%B3n/Bitacoras/26th%20nov%202020.md)
 * [Nov 27th, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/main/Documentaci%C3%B3n/Bitacoras/27th%20nov%202020.md)
 
-## Our Process vs. Scrum
+# Our Process vs. Scrum
 
 For our process development we adhere to the agil-framework Scrum. In this section we acknowledge the differences between our development process and a ideal Scrum-framework.
 
-# User stories:
+## User stories:
 we decided to not implement user stories, insted we elicited requirements. The main reason of this is the difficulty of create different user stories because of the numerous preferences that might exist for the product, hence we try to make the requirements be as clear as possible and make them concern with the recolcted information in the surveys.
 
-# Sprint
+## Sprint
 Along the sprint we agree on the days we are going to have "daily meetings", these meetings are made whenever its necesary to evaluate our progress, analyze the possible vicissitudes or just solving doubts. We also considered the verification as a part called "quality assurance" and its a fundamental section of the daily meeting.
 
-# Product Backlog
+## Product Backlog
 In our prodcut backlog considered the main features and requirements of the product and did not with other factores as the technicall risks or performance.
 
-# Product owner and customer
+## Product owner and customer
 According to scrum we should have the product-owner/customer involved in the development process, nevertheless this is a stand-alone project.
 Despite this, we took the desicion of appoint our primary users in the place of the product-owner in the development process.
