@@ -29,16 +29,16 @@ Binnacles:
 
 # Our Process vs. Scrum
 
-For our process development, we adhere to the agile-framework Scrum. In this section, we point out the differences between our development process and an ideal Scrum framework.
+For our process development, we adhere to the Scrum agile-framework. In this section, we point out the differences between our development process and an ideal Scrum framework.
 
 ## User stories:
-We decided not to implement user stories. Instead, we opted for requirements. The main reason for this is the difficulty of creating different user stories that attend to the numerous preferences that might exist for the product, hence we try to make the requirements be as clear as possible and make them answer to the recollected information of the surveys.
+We decided not to implement user stories. Instead, we opted for requirements. The main reason for this is the difficulty of creating different user stories that attend to the numerous preferences that might exist for the product. Because of this, we try to make our product's requirements be as clear as possible and make them answer to the recollected information of the surveys.
 
 ## Sprint
 Along with the sprint, we agree on the days when we will have "daily meetings". These meetings are made whenever they are necessary in order to evaluate our progress, analyze the possible uncertainties, or just solve doubts. We also implemented the verification as a phase called "quality assurance" and it is a fundamental part of the daily meeting.
 
 ## Product Backlog
-In our product backlog, we considered the main features and requirements of the product. We did not consider other factors, like technical risks or performance.
+In our product backlog, we considered the main features and requirements of the product. We did not consider other factors, like technical risks or system performance.
 
 ## Product owner and customer
 According to Scrum, the product owner/customer should be actively involved in the development process, but we could not comply with this because we are developing a stand-alone project. Despite this, we appointed our primary users as the product-owners in our development process.
