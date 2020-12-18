@@ -26,6 +26,9 @@ Binnacles:
 * [Nov 25th, 2020](Documentaci%C3%B3n/Bitacoras/25th%20nov%202020.md)
 * [Nov 26th, 2020](Documentaci%C3%B3n/Bitacoras/26th%20nov%202020.md)
 * [Nov 27th, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/main/Documentaci%C3%B3n/Bitacoras/27th%20nov%202020.md)
+* [Dec 17th, 2020](https://github.com/CinthiaPedrero/TeamOsiris/blob/main/Documentation/Binnacles/17th%20%20dec%20%202020.md)
+
+
 
 # Our Process vs. Scrum
 
