@@ -27,6 +27,8 @@ Binnacles:
 * [Nov 26th, 2020](Documentaci%C3%B3n/Bitacoras/26th%20nov%202020.md)
 * [Nov 27th, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/main/Documentaci%C3%B3n/Bitacoras/27th%20nov%202020.md)
 
+## Second increment
+* [Dec 20th, 2020]()
 # Our Process vs. Scrum
 
 For our process development we adhere to the agil-framework Scrum. In this section we acknowledge the differences between our development process and a ideal Scrum-framework.
