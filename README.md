@@ -33,7 +33,6 @@ Binnacles:
 
 
 
-
 # Our Process vs. Scrum
 
 For our process development, we adhere to the Scrum agile-framework. In this section, we point out the differences between our development process and an ideal Scrum framework.
