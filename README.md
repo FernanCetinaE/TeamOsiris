@@ -27,6 +27,10 @@ Binnacles:
 * [Nov 26th, 2020](Documentaci%C3%B3n/Bitacoras/26th%20nov%202020.md)
 * [Nov 27th, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/main/Documentaci%C3%B3n/Bitacoras/27th%20nov%202020.md)
 * [Dec 17th, 2020](https://github.com/CinthiaPedrero/TeamOsiris/blob/main/Documentation/Binnacles/17th%20%20dec%20%202020.md)
+* [Dec 21th, 2020](https://github.com/CinthiaPedrero/TeamOsiris/blob/main/Documentation/Binnacles/21th%20dec%202020.md)
+* [Dec 22th, 2020](https://github.com/CinthiaPedrero/TeamOsiris/blob/main/Documentation/Binnacles/22th%20dec%202020.md)
+* [Dec 23th, 2020](https://github.com/CinthiaPedrero/TeamOsiris/blob/main/Documentation/Binnacles/23th%20dec%202020.md)
+
 
 
 
