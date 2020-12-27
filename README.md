@@ -5,7 +5,7 @@ We are happy to share our progress with you! We want optimize your time with sma
 # Team 2:
 
 - Fernan Enrique Cetina Escalante-MID [@FernanCetinaE](https://github.com/FernanCetinaE)
-- Rodrigo Alejandro Castrejón Cervantes-MID [@RodriCst](https://github.com/rodrigo-cst)
+- Rodrigo Alejandro Castrejón Cervantes-MID [@rodrigo-cst](https://github.com/rodrigo-cst)
 - Jorge Teodoro Dawn Rodríguez-MID [@Teodoro-lab](https://github.com/Teodoro-lab)
 - Cinthia January Huchin Pedrero-TIZ [@CinthiaPedrero](https://github.com/CinthiaPedrero)
 - Ricardo Reyes Balam Cupul-TIZ [@rhzx0r](https://github.com/rhzx0r)
@@ -41,6 +41,7 @@ Binnacles:
 - [Dec 21th, 2020](Documentation/Binnacles/21th%20dec%202020.md)
 - [Dec 22th, 2020](Documentation/Binnacles/22th%20dec%202020.md)
 - [Dec 23th, 2020](Documentation/Binnacles/23th%20dec%202020.md)
+- [Dec 26th, 2020](Documentation/Binnacles/26th%20dec%202020.md)
 
 # Our Process vs. Scrum
 
