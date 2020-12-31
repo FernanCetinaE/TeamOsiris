@@ -43,7 +43,8 @@ Binnacles:
 - [Dec 23th, 2020](Documentation/Binnacles/23th%20dec%202020.md)
 - [Dec 26th, 2020](Documentation/Binnacles/26th%20dec%202020.md)
 - [Dec 27th, 2020](Documentation/Binnacles/27th%20dec%202020.md)
-- [Dec 28th, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/Tracker/Documentation/Binnacles/28th%20dec%202020.md)
+- [Dec 28th, 2020](Documentation/Binnacles/28th%20dec%202020.md)
+- [Dec 30th, 2020](Documentation/Binnacles/30th%20dec%202020.md)
 
 # Our Process vs. Scrum
 
