@@ -45,6 +45,7 @@ Binnacles:
 - [Dec 27th, 2020](Documentation/Binnacles/27th%20dec%202020.md)
 - [Dec 28th, 2020](Documentation/Binnacles/28th%20dec%202020.md)
 - [Dec 30th, 2020](Documentation/Binnacles/30th%20dec%202020.md)
+- [Jan 4th, 2021](Documentation/Binnacles/4th%20jan%202021.md)
 
 # Our Process vs. Scrum
 
