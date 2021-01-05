@@ -5,7 +5,7 @@ We are happy to share our progress with you! We want optimize your time with sma
 # Team 2:
 
 - Fernan Enrique Cetina Escalante-MID [@FernanCetinaE](https://github.com/FernanCetinaE)
-- Rodrigo Alejandro Castrejón Cervantes-MID [@RodriCst](https://github.com/RodriCst)
+- Rodrigo Alejandro Castrejón Cervantes-MID [@rodrigo-cst](https://github.com/rodrigo-cst)
 - Jorge Teodoro Dawn Rodríguez-MID [@Teodoro-lab](https://github.com/Teodoro-lab)
 - Cinthia January Huchin Pedrero-TIZ [@CinthiaPedrero](https://github.com/CinthiaPedrero)
 - Ricardo Reyes Balam Cupul-TIZ [@rhzx0r](https://github.com/rhzx0r)
@@ -38,6 +38,15 @@ Binnacles:
 - [Dec 17th, 2020](Documentation/Binnacles/17th%20dec%202020.md)
 - [Dec 19th, 2020](Documentation/Binnacles/19th%20dec%202020.md)
 - [Dec 20th, 2020](Documentation/Binnacles/20th%20dec%202020.md)
+- [Dec 21th, 2020](Documentation/Binnacles/21th%20dec%202020.md)
+- [Dec 22th, 2020](Documentation/Binnacles/22th%20dec%202020.md)
+- [Dec 23th, 2020](Documentation/Binnacles/23th%20dec%202020.md)
+- [Dec 26th, 2020](Documentation/Binnacles/26th%20dec%202020.md)
+- [Dec 27th, 2020](Documentation/Binnacles/27th%20dec%202020.md)
+- [Dec 28th, 2020](Documentation/Binnacles/28th%20dec%202020.md)
+- [Dec 30th, 2020](Documentation/Binnacles/30th%20dec%202020.md)
+- [Jan 4th, 2021](Documentation/Binnacles/4th%20jan%202021.md)
+
 # Our Process vs. Scrum
 
 For our process development, we adhere to the Scrum agile-framework. In this section, we point out the differences between our development process and an ideal Scrum framework.
