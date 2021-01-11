@@ -18,14 +18,14 @@ Our project is intended to help students of 1st semester of UADY studying Softwa
 Binnacles:
 
 ## First increment
-* [Nov 12th, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/main/Documentaci%C3%B3n/Bitacoras/12th%20nov%202020.md)
-* [Nov 13th, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/main/Documentaci%C3%B3n/Bitacoras/13th%20nov%202020.md)
-* [Nov 22nd, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/main/Documentaci%C3%B3n/Bitacoras/22th%20nov%202020.md)
-* [Nov 24th, 2020](Documentaci%C3%B3n/Bitacoras/24th%20nov%202020.md)
-* [Nov 24th-25th, 2020](Documentaci%C3%B3n/Bitacoras/24th-25th%20nov%202020.md)
-* [Nov 25th, 2020](Documentaci%C3%B3n/Bitacoras/25th%20nov%202020.md)
-* [Nov 26th, 2020](Documentaci%C3%B3n/Bitacoras/26th%20nov%202020.md)
-* [Nov 27th, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/main/Documentaci%C3%B3n/Bitacoras/27th%20nov%202020.md)
+* [Nov 12th, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/First-increment/Documentation/Binnacles/12th%20nov%202020.md)
+* [Nov 13th, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/First-increment/Documentation/Binnacles/13th%20nov%202020.md)
+* [Nov 22nd, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/First-increment/Documentation/Binnacles/22th%20nov%202020.md)
+* [Nov 24th, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/First-increment/Documentation/Binnacles/24th%20nov%202020.md)
+* [Nov 24th-25th, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/First-increment/Documentation/Binnacles/24th-25th%20nov%202020.md)
+* [Nov 25th, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/First-increment/Documentation/Binnacles/25th%20nov%202020.md)
+* [Nov 26th, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/First-increment/Documentation/Binnacles/26th%20nov%202020.md)
+* [Nov 27th, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/First-increment/Documentation/Binnacles/27th%20nov%202020.md)
 * [First increment presentation](https://youtu.be/dwGhFRoC-10)
 # Our Process vs. Scrum
 
