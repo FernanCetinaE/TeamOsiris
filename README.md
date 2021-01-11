@@ -24,14 +24,14 @@ Binnacles:
 
 ## First increment
 
-- [Nov 12th, 2020](Documentation/Bitacoras/12th%20nov%202020.md)
-- [Nov 13th, 2020](Documentation/Bitacoras/13th%20nov%202020.md)
-- [Nov 22nd, 2020](Documentation/Bitacoras/22th%20nov%202020.md)
-- [Nov 24th, 2020](Documentation/Bitacoras/24th%20nov%202020.md)
-- [Nov 24th-25th, 2020](Documentation/Bitacoras/24th-25th%20nov%202020.md)
-- [Nov 25th, 2020](Documentation/Bitacoras/25th%20nov%202020.md)
-- [Nov 26th, 2020](Documentation/Bitacoras/26th%20nov%202020.md)
-- [Nov 27th, 2020](Documentation/Bitacoras/27th%20nov%202020.md)
+* [Nov 12th, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/First-increment/Documentation/Binnacles/12th%20nov%202020.md)
+* [Nov 13th, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/First-increment/Documentation/Binnacles/13th%20nov%202020.md)
+* [Nov 22nd, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/First-increment/Documentation/Binnacles/22th%20nov%202020.md)
+* [Nov 24th, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/First-increment/Documentation/Binnacles/24th%20nov%202020.md)
+* [Nov 24th-25th, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/First-increment/Documentation/Binnacles/24th-25th%20nov%202020.md)
+* [Nov 25th, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/First-increment/Documentation/Binnacles/25th%20nov%202020.md)
+* [Nov 26th, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/First-increment/Documentation/Binnacles/26th%20nov%202020.md)
+* [Nov 27th, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/First-increment/Documentation/Binnacles/27th%20nov%202020.md)
 - [First increment presentation](https://youtu.be/dwGhFRoC-10)
 ## Second increment
 
