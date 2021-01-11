@@ -46,7 +46,7 @@ Binnacles:
 - [Dec 28th, 2020](Documentation/Binnacles/28th%20dec%202020.md)
 - [Dec 30th, 2020](Documentation/Binnacles/30th%20dec%202020.md)
 - [Jan 4th, 2021](Documentation/Binnacles/4th%20jan%202021.md)
-
+- [Second increment presentation](https://www.youtube.com/watch?v=gccBOE-JmRI&feature=youtu.be&ab_channel=RodrigoCastrej%C3%B3n)
 # Our Process vs. Scrum
 
 For our process development, we adhere to the Scrum agile-framework. In this section, we point out the differences between our development process and an ideal Scrum framework.
