@@ -32,7 +32,7 @@ Binnacles:
 - [Nov 25th, 2020](Documentation/Bitacoras/25th%20nov%202020.md)
 - [Nov 26th, 2020](Documentation/Bitacoras/26th%20nov%202020.md)
 - [Nov 27th, 2020](Documentation/Bitacoras/27th%20nov%202020.md)
-
+- [First increment presentation](https://youtu.be/dwGhFRoC-10)
 ## Second increment
 
 - [Dec 17th, 2020](Documentation/Binnacles/17th%20dec%202020.md)
