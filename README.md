@@ -26,7 +26,7 @@ Binnacles:
 * [Nov 25th, 2020](Documentaci%C3%B3n/Bitacoras/25th%20nov%202020.md)
 * [Nov 26th, 2020](Documentaci%C3%B3n/Bitacoras/26th%20nov%202020.md)
 * [Nov 27th, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/main/Documentaci%C3%B3n/Bitacoras/27th%20nov%202020.md)
-
+* [First increment presentation](https://youtu.be/dwGhFRoC-10)
 # Our Process vs. Scrum
 
 For our process development, we adhere to the Scrum agile-framework. In this section, we point out the differences between our development process and an ideal Scrum framework.
