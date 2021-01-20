@@ -8,7 +8,6 @@ We are happy to share our progress with you! We want optimize your time with sma
 - Rodrigo Alejandro Castrejón Cervantes-MID [@rodrigo-cst](https://github.com/rodrigo-cst)
 - Jorge Teodoro Dawn Rodríguez-MID [@Teodoro-lab](https://github.com/Teodoro-lab)
 - Cinthia January Huchin Pedrero-TIZ [@CinthiaPedrero](https://github.com/CinthiaPedrero)
-- Ricardo Reyes Balam Cupul-TIZ [@rhzx0r](https://github.com/rhzx0r)
 
 # Description
 
