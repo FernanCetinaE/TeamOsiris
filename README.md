@@ -50,6 +50,7 @@ Binnacles:
 ## Third increment
 
 - [Jan 12th, 2021](Documentation/Binnacles/12th%20jan%202021.md)
+- [Jan 17th, 2021](https://github.com/Teodoro-lab/TeamOsiris/blob/main/Documentation/Binnacles/17th%20jan%202021.md)
 
 # Our Process vs. Scrum
 
