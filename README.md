@@ -8,7 +8,6 @@ We are happy to share our progress with you! We want optimize your time with sma
 - Rodrigo Alejandro Castrejón Cervantes-MID [@rodrigo-cst](https://github.com/rodrigo-cst)
 - Jorge Teodoro Dawn Rodríguez-MID [@Teodoro-lab](https://github.com/Teodoro-lab)
 - Cinthia January Huchin Pedrero-TIZ [@CinthiaPedrero](https://github.com/CinthiaPedrero)
-- Ricardo Reyes Balam Cupul-TIZ [@rhzx0r](https://github.com/rhzx0r)
 
 # Description
 
@@ -47,6 +46,13 @@ Binnacles:
 - [Dec 30th, 2020](Documentation/Binnacles/30th%20dec%202020.md)
 - [Jan 4th, 2021](Documentation/Binnacles/4th%20jan%202021.md)
 * [Second increment presentation](https://www.youtube.com/watch?v=gccBOE-JmRI&feature=youtu.be&ab_channel=RodrigoCastrej%C3%B3n)
+
+## Third increment
+
+- [Jan 12th, 2021](Documentation/Binnacles/12th%20jan%202021.md)
+- [Jan 17th, 2021](https://github.com/FernanCetinaE/TeamOsiris/blob/Third-increment/Documentation/Binnacles/17th%20jan%202021.md)
+- [Jan 25th, 2021](Documentation/Binnacles/25th%20jan%202021.md)
+
 # Our Process vs. Scrum
 
 For our process development, we adhere to the Scrum agile-framework. In this section, we point out the differences between our development process and an ideal Scrum framework.
