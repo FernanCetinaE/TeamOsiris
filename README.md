@@ -22,7 +22,7 @@ Our project is intended to help students of 1st semester of UADY studying Softwa
 ![](https://github.com/Teodoro-lab/TeamOsiris/blob/Third-increment/Documentation/ReadMe%20media/add%26properties.gif)
 
 
-[![to see the walkthrough click on the YouTube video](http://img.youtube.com/vi/3Qsg9YZG3pU&feature=youtu.be&ab_channel=FariqueFece/0.jpg)](http://www.youtube.com/watch?v=3Qsg9YZG3pU&feature=youtu.be&ab_channel=FariqueFece)
+[![to see the walkthrough click on the YouTube video](http://img.youtube.com/vi/3Qsg9YZG3pU&feature=youtu.be&ab_channel=FariqueFece/.jpg)](http://www.youtube.com/watch?v=3Qsg9YZG3pU&feature=youtu.be&ab_channel=FariqueFece)
 
 
 # Progress tracking
