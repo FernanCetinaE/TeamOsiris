@@ -20,9 +20,9 @@ Our project is intended to help students of 1st semester of UADY studying Softwa
 ***
 [Interactive prototype by clicking here!](https://www.figma.com/proto/CYd8ym0jVD3PjarlkyM5Dx/Osiris?node-id=852%3A8886&scaling=min-zoom)  
 [To see the walkthrough click here!](http://www.youtube.com/watch?v=3Qsg9YZG3pU&feature=youtu.be&ab_channel=FariqueFece)  
-***
-![](https://github.com/Teodoro-lab/TeamOsiris/blob/Third-increment/Documentation/ReadMe%20media/add%26properties.gif)
 
+![](https://github.com/Teodoro-lab/TeamOsiris/blob/Third-increment/Documentation/ReadMe%20media/add%26properties.gif)  
+![](https://github.com/Teodoro-lab/TeamOsiris/blob/Third-increment/Documentation/ReadMe%20media/CalendarTaskDeletion.gif)
 
 # Progress tracking
 
@@ -39,6 +39,7 @@ Binnacles:
 * [Nov 26th, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/First-increment/Documentation/Binnacles/26th%20nov%202020.md)
 * [Nov 27th, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/First-increment/Documentation/Binnacles/27th%20nov%202020.md)
 - [First increment presentation](https://youtu.be/dwGhFRoC-10)
+
 ## Second increment
 
 - [Dec 17th, 2020](Documentation/Binnacles/17th%20dec%202020.md)
