@@ -17,12 +17,13 @@ Our project intends to help students manage their time, keep track of their futu
 
 Our project is intended to help students of 1st semester of UADY studying Software Engineering.
 
-[interactive prototype by clicking here!](https://www.figma.com/proto/CYd8ym0jVD3PjarlkyM5Dx/Osiris?node-id=852%3A8886&scaling=min-zoom)
+
 ***
-![](https://github.com/Teodoro-lab/TeamOsiris/blob/Third-increment/Documentation/ReadMe%20media/add%26properties.gif)
+![[interactive prototype by clicking here!](https://www.figma.com/proto/CYd8ym0jVD3PjarlkyM5Dx/Osiris?node-id=852%3A8886&scaling=min-zoom)(https://github.com/Teodoro-lab/TeamOsiris/blob/Third-increment/Documentation/ReadMe%20media/add%26properties.gif)
 
+<iframe width="1349" height="480" src="https://www.youtube.com/embed/3Qsg9YZG3pU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![to see the walkthrough click on the YouTube video](http://img.youtube.com/vi/3Qsg9YZG3pU&feature=youtu.be&ab_channel=FariqueFece/.jpg)](http://www.youtube.com/watch?v=3Qsg9YZG3pU&feature=youtu.be&ab_channel=FariqueFece)
+[![to see the walkthrough click on the YouTube video](http://img.youtube.com/vi/3Qsg9YZG3pU&feature=youtu.be&ab_channel=FariqueFece/0.jpg)](http://www.youtube.com/watch?v=3Qsg9YZG3pU&feature=youtu.be&ab_channel=FariqueFece)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=3Qsg9YZG3pU&feature=youtu.be&ab_channel=FariqueFece
 " target="_blank"><img src="http://img.youtube.com/vi/=youtu.be&ab_channel=FariqueFece/0.jpg" 
