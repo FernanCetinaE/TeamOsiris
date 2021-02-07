@@ -17,7 +17,7 @@ Our project intends to help students manage their time, keep track of their futu
 
 Our project is intended to help students of 1st semester of UADY studying Software Engineering.
 
-***
+# High Fidelity Prototype
 [Interactive prototype by clicking here!](https://www.figma.com/proto/CYd8ym0jVD3PjarlkyM5Dx/Osiris?node-id=852%3A8886&scaling=min-zoom)  
 [To see the walkthrough click here!](http://www.youtube.com/watch?v=3Qsg9YZG3pU&feature=youtu.be&ab_channel=FariqueFece)  
 
