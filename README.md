@@ -19,7 +19,7 @@ Our project is intended to help students of 1st semester of UADY studying Softwa
 
 ***
 [Interactive prototype by clicking here!](https://www.figma.com/proto/CYd8ym0jVD3PjarlkyM5Dx/Osiris?node-id=852%3A8886&scaling=min-zoom)
-[to see the walkthrough click on the YouTube video](http://img.youtube.com/vi/3Qsg9YZG3pU&feature=youtu.be&ab_channel=FariqueFece/0.jpg)](http://www.youtube.com/watch?v=3Qsg9YZG3pU&feature=youtu.be&ab_channel=FariqueFece)
+[to see the walkthrough click on the YouTube video](http://www.youtube.com/watch?v=3Qsg9YZG3pU&feature=youtu.be&ab_channel=FariqueFece)
 ***
 ![](https://github.com/Teodoro-lab/TeamOsiris/blob/Third-increment/Documentation/ReadMe%20media/add%26properties.gif)
 
@@ -61,9 +61,6 @@ Binnacles:
 - [Jan 25th, 2021](Documentation/Binnacles/25th%20jan%202021.md)
 - [Feb 4th, 2021](Documentation/Binnacles/4th%20feb%202021.md)
 * [Third increment presentation](https://youtu.be/MQDPtOxB_1s)
-
-![](https://github.com/Teodoro-lab/TeamOsiris/blob/Third-increment/Third%20Increment/add%20and%20properties.gif)
-
 
 # Our Process vs. Scrum
 
