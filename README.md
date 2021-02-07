@@ -61,7 +61,7 @@ Binnacles:
 - [Jan 17th, 2021](https://github.com/FernanCetinaE/TeamOsiris/blob/Third-increment/Documentation/Binnacles/17th%20jan%202021.md)
 - [Jan 25th, 2021](Documentation/Binnacles/25th%20jan%202021.md)
 - [Feb 4th, 2021](Documentation/Binnacles/4th%20feb%202021.md)
-- [Feb 6th, 2021](Documentation/Binnacles/6th feb 2021.md)
+- [Feb 6th, 2021](Documentation/Binnacles/6th%20feb%202021.md)
 
 * [Third increment presentation](https://youtu.be/MQDPtOxB_1s)
 
