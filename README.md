@@ -54,6 +54,10 @@ Binnacles:
 - [Jan 25th, 2021](Documentation/Binnacles/25th%20jan%202021.md)
 - [Feb 4th, 2021](Documentation/Binnacles/4th%20feb%202021.md)
 * [Third increment presentation](https://youtu.be/MQDPtOxB_1s)
+
+![](https://github.com/Teodoro-lab/TeamOsiris/blob/Third-increment/Third%20Increment/add%20and%20properties.gif)
+
+
 # Our Process vs. Scrum
 
 For our process development, we adhere to the Scrum agile-framework. In this section, we point out the differences between our development process and an ideal Scrum framework.
