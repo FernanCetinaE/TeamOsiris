@@ -17,6 +17,13 @@ Our project intends to help students manage their time, keep track of their futu
 
 Our project is intended to help students of 1st semester of UADY studying Software Engineering.
 
+***
+[Interactive prototype by clicking here!](https://www.figma.com/proto/CYd8ym0jVD3PjarlkyM5Dx/Osiris?node-id=852%3A8886&scaling=min-zoom)  
+[To see the walkthrough click here!](http://www.youtube.com/watch?v=3Qsg9YZG3pU&feature=youtu.be&ab_channel=FariqueFece)  
+
+![](https://github.com/Teodoro-lab/TeamOsiris/blob/Third-increment/Documentation/ReadMe%20media/add%26properties.gif)  
+![](https://github.com/Teodoro-lab/TeamOsiris/blob/Third-increment/Documentation/ReadMe%20media/add-edit-remove.gif)
+
 # Progress tracking
 
 Binnacles:
@@ -32,6 +39,7 @@ Binnacles:
 * [Nov 26th, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/First-increment/Documentation/Binnacles/26th%20nov%202020.md)
 * [Nov 27th, 2020](https://github.com/FernanCetinaE/TeamOsiris/blob/First-increment/Documentation/Binnacles/27th%20nov%202020.md)
 - [First increment presentation](https://youtu.be/dwGhFRoC-10)
+
 ## Second increment
 
 - [Dec 17th, 2020](Documentation/Binnacles/17th%20dec%202020.md)
@@ -53,7 +61,10 @@ Binnacles:
 - [Jan 17th, 2021](https://github.com/FernanCetinaE/TeamOsiris/blob/Third-increment/Documentation/Binnacles/17th%20jan%202021.md)
 - [Jan 25th, 2021](Documentation/Binnacles/25th%20jan%202021.md)
 - [Feb 4th, 2021](Documentation/Binnacles/4th%20feb%202021.md)
+- [Feb 6th, 2021](Documentation/Binnacles/6th%20feb%202021.md)
+
 * [Third increment presentation](https://youtu.be/MQDPtOxB_1s)
+
 # Our Process vs. Scrum
 
 For our process development, we adhere to the Scrum agile-framework. In this section, we point out the differences between our development process and an ideal Scrum framework.
