@@ -24,6 +24,10 @@ Our project is intended to help students of 1st semester of UADY studying Softwa
 
 [![to see the walkthrough click on the YouTube video](http://img.youtube.com/vi/3Qsg9YZG3pU&feature=youtu.be&ab_channel=FariqueFece/.jpg)](http://www.youtube.com/watch?v=3Qsg9YZG3pU&feature=youtu.be&ab_channel=FariqueFece)
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=3Qsg9YZG3pU&feature=youtu.be&ab_channel=FariqueFece
+" target="_blank"><img src="http://img.youtube.com/vi/3Qsg9YZG3pU&feature=youtu.be&ab_channel=FariqueFece/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 
 # Progress tracking
 
